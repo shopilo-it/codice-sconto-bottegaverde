@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-bottegaverde",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Bottega Verde da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-bottega-verde",
+    "voucher-bottega-verde",
+    "coupon-bottega-verde",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/bottegaverde.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-bottegaverde.git"
+  }
+}
